@@ -1,4 +1,4 @@
-module codetime66/hello
+module github.com/codetime66/hello
 
 go 1.14
 
